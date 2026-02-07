@@ -1,0 +1,12 @@
+{
+  "name": "Swift",
+  "image": "swift:5.9-jammy",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "sswg.swift-lang"
+      ]
+    }
+  }
+}
